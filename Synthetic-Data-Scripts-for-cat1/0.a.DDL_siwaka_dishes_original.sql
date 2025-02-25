@@ -1,5 +1,3 @@
--- TODO: Add code to create a user here
-
 USE `<your_student_ID_number>_cat1`;
 
 START TRANSACTION;
