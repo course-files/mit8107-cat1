@@ -169,3 +169,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+/container-volumes/mysql/var-lib-mysql
+/container-volumes/mysql/var-log-mysql
+Synthetic-Data-Scripts-for-cat1-temp
